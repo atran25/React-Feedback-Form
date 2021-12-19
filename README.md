@@ -1,5 +1,3 @@
-Deployed at: https://confident-yalow-95ee09.netlify.app/
-
 
 
 
