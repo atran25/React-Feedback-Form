@@ -1,3 +1,5 @@
+Screenshot:
+<img src="screenshots/main.png">
 
 Utlizes json-server to handle add, delete, and updating of the form posts.  
 
