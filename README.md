@@ -1,5 +1,5 @@
 
-
+Utlizes json-server to handle add, delete, and updating of the form posts.  
 
 # Getting Started with Create React App
 
